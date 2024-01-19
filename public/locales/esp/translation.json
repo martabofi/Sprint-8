@@ -1,0 +1,15 @@
+{
+    "BalançTotal": "Balance total",
+    "DespesesSetmana": "Gastos última semana",
+    "RespecteAhir": "respecto a ayer",
+    "DespesesAvui": "Gastos de hoy",
+    "days": {
+        "Dilluns": "Lunes",
+        "Dimarts": "Martes",
+        "Dimecres": "Miércoles",
+        "Dijous": "Jueves",
+        "Divendres": "Viernes",
+        "Dissabte": "Sábado",
+        "Diumenge": "Domingo"
+    }
+}

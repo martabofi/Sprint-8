@@ -1,0 +1,15 @@
+{
+    "BalançTotal": "Balanç total",
+    "DespesesSetmana": "Despeses última setmana",
+    "RespecteAhir": "respecte a ahir",
+    "DespesesAvui": "Despeses avui",
+    "days": {
+        "Dilluns": "Dilluns",
+        "Dimarts": "Dimarts",
+        "Dimecres": "Dimecres",
+        "Dijous": "Dijous",
+        "Divendres": "Divendres",
+        "Dissabte": "Dissabte",
+        "Diumenge": "Diumenge"
+    }
+}
