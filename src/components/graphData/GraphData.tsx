@@ -105,7 +105,6 @@ export default function GraphData() {
     ],
   };
   return (
-    <>
       <div className="bg-graphic rounded-3xl p-6">
         <h1 className="font-bold text-2xl text-zinc-700 mb-5">
           {t("DespesesSetmana")}
@@ -117,6 +116,5 @@ export default function GraphData() {
           <VariationExpense />
         </div>
       </div>
-    </>
   );
 }

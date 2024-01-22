@@ -8,13 +8,11 @@ function App() {
 
   return (
     <ContextProvider>
-      <>
         <div className="w-96">
           <BalanceExpense></BalanceExpense>
           <br />
           <GraphData></GraphData>
         </div>
-      </>
     </ContextProvider>
   );
 }
