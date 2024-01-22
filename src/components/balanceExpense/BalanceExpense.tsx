@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import Translation from "../Translation";
 
 const BalanceExpense: React.FC = () => {
-  const { totalWeekBalance, currentWeek, weeksArray, changeWeek } =
+  const { totalWeekBalance, changeWeek } =
     useElements();
   const { t } = useTranslation();
 
